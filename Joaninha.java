@@ -15,7 +15,9 @@ public class Joaninha {
 
         int dobroX = X * 2;
         int triploX = X * 3;
+	int[] array = new int[4];
 
         System.out.println("dobro: " + dobroX + ", " + "triplo: " + triploX);
+	System.out.println(array);
     }
 }
